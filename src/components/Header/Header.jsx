@@ -8,7 +8,7 @@ import IconButton from '@material-ui/core/IconButton';
 import { MoreVert, Settings, BugReport } from '@material-ui/icons';
 import { Toolbar, ToolbarGroup } from 'material-ui/Toolbar';
 import LogOutButton from 'material-ui/svg-icons/action/power-settings-new';
-import { Menu, MenuItem } from '@material-ui/core';
+import { Menu, MenuItem, ListItemIcon, ListItemText } from '@material-ui/core';
 import styled from 'styled-components';
 import LocalizationMenu from '../Localization';
 import constants from '../constants';
@@ -191,9 +191,11 @@ class Header extends React.Component {
     );
 
     const ReportBug = () => (
-      <DropdownMenuItem component="a" href={REPORT_BUG_PATH} target="_blank" rel="noopener noreferrer" >
-        <BugReport style={{ marginRight: 32, width: 24, height: 24 }} />
-        {strings.app_report_bug}
+      <DropdownMenuItem divider component="a" href={REPORT_BUG_PATH} target="_blank" rel="noopener noreferrer" >
+        <ListItemIcon>
+          <BugReport />
+        </ListItemIcon>
+        <ListItemText>{strings.app_report_bug}</ListItemText>
       </DropdownMenuItem>
     );
 
