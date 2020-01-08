@@ -1147,8 +1147,11 @@
   "gosu_analysis": "Get your real MMR bracket",
   "back2Top": "Back to Top",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "activity_subtitle": "Click on a day for detailed information"
 =======
+=======
+>>>>>>> l10n_master
   "activity_subtitle": "Click on a day for detailed information",
   "vs": "vs.",
   "add_team": "Add To Team {0}",
@@ -1158,5 +1161,8 @@
   "combos_description": "Search for hero combinations in public and professional matches",
   "public_matches": "Public Matches",
   "pro_matches": "Pro Matches"
+<<<<<<< HEAD
+>>>>>>> l10n_master
+=======
 >>>>>>> l10n_master
 }

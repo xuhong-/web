@@ -21,25 +21,14 @@
   "analysis_expected": "von",
   "announce_dismiss": "Verwerfen",
   "announce_github_more": "Öffne auf Github",
-<<<<<<< HEAD
-  "api_meta_description": "Die OpenDota-API ermöglicht den Zugriff auf alle erweiterten Dota 2-Statistiken, die von der OpenDota-Plattform angeboten werden. Zugriff auf Leistungsdiagramme, Heatmaps, Stichwortwolke und mehr. Kostenlos starten!.",
+  "api_meta_description": "The OpenDota API gives you access to all the advanced Dota 2 stats offered by the OpenDota platform. Access performance graphs, heatmaps, wordclouds, and more. Get started for free.",
   "api_title": "Die OpenDota API",
   "api_subtitle": "Build on top of the OpenDota platform. Bring advanced stats to your app and deep insights to your users.",
   "api_details_free_tier": "Free Tier",
   "api_details_premium_tier": "Premium Tier",
-  "api_details_price": "Preis",
-  "api_details_price_free": "kostenlos",
+  "api_details_price": "Price",
+  "api_details_price_free": "Free",
   "api_details_price_prem": "$price per $unit calls",
-=======
-  "api_meta_description": "Die OpenDota API gibt dir Zugang zu allen fortgeschrittenen Dota 2 Statistiken angeboten von der OpenDota Plattform. Erhalte Zugang zu Leistungsdiagramme, Heatmaps, Wordclouds, und mehr. Starte jetzt, kostenlos.",
-  "api_title": "Die OpenDota API",
-  "api_subtitle": "Aufgebaut auf der OpenDota Plattform. Bringe fortgeschrittene Statistiken zu deinem App und erhalte tiefe Erkenntnisse in deinen Nutzern.",
-  "api_details_free_tier": "Freie Stufe",
-  "api_details_premium_tier": "Premium Stufe",
-  "api_details_price": "Preis",
-  "api_details_price_free": "Kostenlos",
-  "api_details_price_prem": "$price pro $unit Aufruf",
->>>>>>> l10n_master
   "api_details_key_required": "Schlüssel erforderlich?",
   "api_details_key_required_free": "Nein",
   "api_details_key_required_prem": "Ja -- erfordert Zahlungsmethode",
@@ -49,11 +38,7 @@
   "api_details_rate_limit": "Abruflimit",
   "api_details_rate_limit_val": "$num Aufrufe pro Minute",
   "api_details_support": "Support",
-<<<<<<< HEAD
-  "api_details_support_free": "Unterstützung durch die Community über die Discord-Gruppe",
-=======
-  "api_details_support_free": "Community Support via Discord Gruppe",
->>>>>>> l10n_master
+  "api_details_support_free": "Community support via Discord group",
   "api_details_support_prem": "Bevorzugter Support durch Hauptentwickler",
   "api_get_key": "Schlüssel beziehen",
   "api_docs": "Lese die Dokumentation",
@@ -99,11 +84,7 @@
   "app_untracked": "Dieser Benutzer hat uns lange nicht besucht und Replays der neuen Spiele werden nicht mehr automatisch analysiert.",
   "app_tracked": "Dieser Benutzer hat uns vor kurzem besucht und Replays von neuen Spiele werden automatisch analysiert.",
   "app_cheese_bought": "Käse gekauft",
-<<<<<<< HEAD
-  "app_contributor": "Dieser Benutzer hat an der Entwicklung des OpenDota-Projekts mitgewirkt.",
-=======
-  "app_contributor": "Dieser Nutzer hat bei der Entwicklung des OpenDota Projekts mitgewirkt",
->>>>>>> l10n_master
+  "app_contributor": "This user has contributed to the development of the OpenDota project",
   "app_dotacoach": "Frag einen Coach",
   "app_pvgna": "Eine Anleitung finden",
   "app_pvgna_alt": "Finden Sie eine Dota 2 Anleitung auf Pvgna",
@@ -1165,17 +1146,5 @@
   "gosu_teamfights": "Get who to target during teamfights",
   "gosu_analysis": "Get your real MMR bracket",
   "back2Top": "Back to Top",
-<<<<<<< HEAD
   "activity_subtitle": "Click on a day for detailed information"
-=======
-  "activity_subtitle": "Click on a day for detailed information",
-  "vs": "vs.",
-  "add_team": "Add To Team {0}",
-  "team": "Team {0}",
-  "combos": "Combos",
-  "combos_title": "Hero Combos",
-  "combos_description": "Search for hero combinations in public and professional matches",
-  "public_matches": "Public Matches",
-  "pro_matches": "Pro Matches"
->>>>>>> l10n_master
 }

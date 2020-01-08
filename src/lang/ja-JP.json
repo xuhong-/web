@@ -291,7 +291,11 @@
   "NULL_gold_reasons_15": "クーリエ",
   "header_request": "リクエスト",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "header_distributions": "ランク",
+=======
+  "header_distributions": "Distributions",
+>>>>>>> l10n_master
 =======
   "header_distributions": "Distributions",
 >>>>>>> l10n_master
@@ -1152,9 +1156,12 @@
   "back2Top": "Back to Top",
   "activity_subtitle": "Click on a day for detailed information",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "combos": "コンボ"
 }
 =======
+=======
+>>>>>>> l10n_master
   "vs": "vs.",
   "add_team": "Add To Team {0}",
   "team": "Team {0}",
@@ -1164,4 +1171,7 @@
   "public_matches": "Public Matches",
   "pro_matches": "Pro Matches"
 }
+<<<<<<< HEAD
+>>>>>>> l10n_master
+=======
 >>>>>>> l10n_master
